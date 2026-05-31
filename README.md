@@ -1,6 +1,6 @@
 # Hi, I'm Federico 👋🏽
 
-Software Developer from Argentina 🧉 🇦🇷
+Software Developer from Argentina 🧉
 
 Currently working at [fsinet](https://fsinet.com.ar/).
 
@@ -8,13 +8,11 @@ Interested in the intersection of software, language learning, and knowledge man
 
 ## Interests
 
-- 🐧 Free and Open Source Software
-- 📝 Markdown
-- 📚 Obsidian
-- 🇨🇳 Mandarin Chinese
-- 🏗️ Software Architecture
-- 🎬 Cinema
-- 📖 Literature
+- Free and Open Source Software
+- Software Architecture
+- Chinese language and culture
+- Cinema
+- Literature
 
 ## Tech Stack
 
